@@ -21,6 +21,11 @@ git clone https://github.com/cyberatlas-baseeth/SpeedRunEthereum.git
 cd SpeedRunEthereum
 ```
 
+Check yarn version:
+```bash
+yarn -v
+```
+
 Install dependencies:
 
 ```bash
