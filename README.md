@@ -16,7 +16,7 @@ Speed Run Ethereum aims to provide a structured learning path for onboarding dev
 Get the project code:
 
 ```bash
-git clone git@github.com:BuidlGuidl/SpeedRunEthereum.git
+git clone https://github.com/cyberatlas-baseeth/SpeedRunEthereum.git
 
 cd SpeedRunEthereum
 ```
